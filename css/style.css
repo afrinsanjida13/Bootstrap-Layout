@@ -1,0 +1,24 @@
+.header, .hero, .body, .bar, .footer{
+	margin-bottom: 10px;
+	background-color: skyblue;
+
+}
+.box{
+	min-height: 80px;
+	background-color: lightcyan;
+	border: 8px solid darkblue;
+	border-radius: 10px;
+	font-size: 30px;
+	text-align: center;
+	color: darkblue;
+}
+.red{
+	background-color: purple;
+	font-weight: 700;
+	color: ghostwhite;
+}
+.pink{
+	background-color: lightpink;
+	font-weight: 700;
+	color: red;
+}
